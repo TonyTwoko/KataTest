@@ -1,5 +1,6 @@
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Hello Kata!");
+        System.out.print("Hello Kata");
+        System.out.println(" !");
     }
 }
